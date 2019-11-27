@@ -25,3 +25,5 @@
 20. [직사각형 별찍기](https://github.com/kowoohyuk/algorithm/blob/master/2019-11-23-algorithm-a020.md)  
 21. [행렬의 덧셈](https://github.com/kowoohyuk/algorithm/blob/master/2019-11-24-algorithm-a021.md)
 22. [콜라츠 추측](https://github.com/kowoohyuk/algorithm/blob/master/2019-11-25-algorithm-a022.md)
+23. [체육복](https://github.com/kowoohyuk/algorithm/blob/master/2019-11-26-algorithm-a023.md)
+24. [소수 찾기](https://github.com/kowoohyuk/algorithm/blob/master/2019-11-27-algorithm-a024.md)
