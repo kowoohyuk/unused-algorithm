@@ -27,4 +27,5 @@
 22. [콜라츠 추측](https://github.com/kowoohyuk/algorithm/blob/master/2019-11-25-algorithm-a022.md)
 23. [체육복](https://github.com/kowoohyuk/algorithm/blob/master/2019-11-26-algorithm-a023.md)
 24. [소수 찾기](https://github.com/kowoohyuk/algorithm/blob/master/2019-11-27-algorithm-a024.md)
-25. [내 마음대로 정렬하기](https://github.com/kowoohyuk/algorithm/blob/master/2019-11-28-algorithm-a025.md)
+25. [문자열 내 마음대로 정렬하기](https://github.com/kowoohyuk/algorithm/blob/master/2019-11-28-algorithm-a025.md)
+26. [이상한 문자 만들기](https://github.com/kowoohyuk/algorithm/blob/master/2019-11-29-algorithm-a026.md)
