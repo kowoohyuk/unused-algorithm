@@ -29,3 +29,6 @@
 24. [소수 찾기](https://github.com/kowoohyuk/algorithm/blob/master/2019-11-27-algorithm-a024.md)
 25. [문자열 내 마음대로 정렬하기](https://github.com/kowoohyuk/algorithm/blob/master/2019-11-28-algorithm-a025.md)
 26. [이상한 문자 만들기](https://github.com/kowoohyuk/algorithm/blob/master/2019-11-29-algorithm-a026.md)
+27. [자릿수 더하기](https://github.com/kowoohyuk/algorithm/blob/master/2019-11-30-algorithm-a027.md)
+### 12월
+28. [자연수 뒤집어 배열로 만들기](https://github.com/kowoohyuk/algorithm/blob/master/2019-12-01-algorithm-a028.md)
