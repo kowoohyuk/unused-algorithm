@@ -32,3 +32,4 @@
 27. [자릿수 더하기](https://github.com/kowoohyuk/algorithm/blob/master/2019-11-30-algorithm-a027.md)
 ### 12월
 28. [자연수 뒤집어 배열로 만들기](https://github.com/kowoohyuk/algorithm/blob/master/2019-12-01-algorithm-a028.md)
+29. [정수 내림차순으로 배치하기](https://github.com/kowoohyuk/algorithm/blob/master/2019-12-02-algorithm-a029.md)
