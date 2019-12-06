@@ -41,3 +41,4 @@
 30. [정수 제곱근 판별](https://github.com/kowoohyuk/algorithm/blob/master/2019-12-03-algorithm-a030.md)
 31. [제일 작은 수 제거하기](https://github.com/kowoohyuk/algorithm/blob/master/2019-12-04-algorithm-a031.md)
 32. [최대공약수와 최소공배수](https://github.com/kowoohyuk/algorithm/blob/master/2019-12-05-algorithm-a032.md)
+33. [평균 구하기](https://github.com/kowoohyuk/algorithm/blob/master/2019-12-06-algorithm-a033.md)
