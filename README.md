@@ -42,3 +42,5 @@
 31. [제일 작은 수 제거하기](https://github.com/kowoohyuk/algorithm/blob/master/2019-12-04-algorithm-a031.md)
 32. [최대공약수와 최소공배수](https://github.com/kowoohyuk/algorithm/blob/master/2019-12-05-algorithm-a032.md)
 33. [평균 구하기](https://github.com/kowoohyuk/algorithm/blob/master/2019-12-06-algorithm-a033.md)
+34. [핸드폰 번호 가리기](https://github.com/kowoohyuk/algorithm/blob/master/2019-12-07-algorithm-a034.md)
+35. [예산](https://github.com/kowoohyuk/algorithm/blob/master/2019-12-08-algorithm-a035.md)
