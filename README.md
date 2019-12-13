@@ -48,3 +48,4 @@
 37. [실패율](https://github.com/kowoohyuk/algorithm/blob/master/2019-12-10-algorithm-a037.md)
 38. [비밀지도](https://github.com/kowoohyuk/algorithm/blob/master/2019-12-11-algorithm-a038.md)
 39. [다트 게임](https://github.com/kowoohyuk/algorithm/blob/master/2019-12-12-algorithm-a039.md)
+40. [프린터]](https://github.com/kowoohyuk/algorithm/blob/master/2019-12-13-algorithm-a040.md)
