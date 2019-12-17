@@ -51,4 +51,5 @@
 40. [프린터](https://github.com/kowoohyuk/algorithm/blob/master/2019-12-13-algorithm-a040.md)
 41. [124 나라의 숫자](https://github.com/kowoohyuk/algorithm/blob/master/2019-12-14-algorithm-a041.md)
 42. [쇠막대기](https://github.com/kowoohyuk/algorithm/blob/master/2019-12-15-algorithm-a042.md)
-43. [최댓값과 최솟값]](https://github.com/kowoohyuk/algorithm/blob/master/2019-12-16-algorithm-a043.md)
+43. [최댓값과 최솟값](https://github.com/kowoohyuk/algorithm/blob/master/2019-12-16-algorithm-a043.md)
+44. [다리를 지나는 트럭](https://github.com/kowoohyuk/algorithm/blob/master/2019-12-17-algorithm-a044.md)
