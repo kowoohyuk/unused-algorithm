@@ -54,5 +54,4 @@
 43. [최댓값과 최솟값](https://github.com/kowoohyuk/algorithm/blob/master/2019-12-16-algorithm-a043.md)
 44. [다리를 지나는 트럭](https://github.com/kowoohyuk/algorithm/blob/master/2019-12-17-algorithm-a044.md)
 45. [기능개발](https://github.com/kowoohyuk/algorithm/blob/master/2019-12-22-algorithm-a045.md)
-46. [스킬트리](https://github.com/kowoohyuk/algorithm/blob/master/2019-12-25-algorithm-a046.md)
 47. [가장 큰 수]](https://github.com/kowoohyuk/algorithm/blob/master/2019-12-26-algorithm-a047.md)
