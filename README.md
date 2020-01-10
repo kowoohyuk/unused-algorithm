@@ -54,4 +54,10 @@
 43. [최댓값과 최솟값](https://github.com/kowoohyuk/algorithm/blob/master/2019-12-16-algorithm-a043.md)
 44. [다리를 지나는 트럭](https://github.com/kowoohyuk/algorithm/blob/master/2019-12-17-algorithm-a044.md)
 45. [기능개발](https://github.com/kowoohyuk/algorithm/blob/master/2019-12-22-algorithm-a045.md)
-47. [가장 큰 수]](https://github.com/kowoohyuk/algorithm/blob/master/2019-12-26-algorithm-a047.md)
+47. [가장 큰 수](https://github.com/kowoohyuk/algorithm/blob/master/2019-12-26-algorithm-a047.md)
+
+## 2020년
+
+### 1월
+
+48. [위장](https://github.com/kowoohyuk/algorithm/blob/master/2020-01-10-algorithm-a048.md)
