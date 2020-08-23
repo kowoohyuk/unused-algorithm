@@ -63,4 +63,12 @@
 
 48. [위장](https://github.com/kowoohyuk/algorithm/blob/master/2020-01-10-algorithm-a048.md)
 
-### 3월
+### 5월
+
+49. [공백 없애기](https://github.com/kowoohyuk/algorithm/blob/master/2020-05-15-algorithm-a049.md)
+
+### 8월
+
+50. [홀짝 판별](https://github.com/kowoohyuk/algorithm/blob/master/2020-08-18-algorithm-a050.md)
+51. [3과 5의 배수](https://github.com/kowoohyuk/algorithm/blob/master/2020-08-22-algorithm-a051.md)
+52. [시험성적 평균과 등급 구하기](https://github.com/kowoohyuk/algorithm/blob/master/2020-08-23-algorithm-a052.md)
