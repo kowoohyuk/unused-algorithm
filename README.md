@@ -75,3 +75,4 @@
 53. [전기요금](https://github.com/kowoohyuk/algorithm/blob/master/2020-08-24-algorithm-a053.md)
 54. [짝지어 제거하기](https://github.com/kowoohyuk/algorithm/blob/master/2020-08-25-algorithm-a054.md)
 55. [예상 대진표](https://github.com/kowoohyuk/algorithm/blob/master/2020-08-26-algorithm-a055.md)
+56. [크레인 인형뽑기 게임](https://github.com/kowoohyuk/algorithm/blob/master/2020-08-27-algorithm-a056.md)
