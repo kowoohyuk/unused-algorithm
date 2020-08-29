@@ -54,7 +54,7 @@
 43. [최댓값과 최솟값](https://github.com/kowoohyuk/algorithm/blob/master/2019-12-16-algorithm-a043.md)
 44. [다리를 지나는 트럭](https://github.com/kowoohyuk/algorithm/blob/master/2019-12-17-algorithm-a044.md)
 45. [기능개발](https://github.com/kowoohyuk/algorithm/blob/master/2019-12-22-algorithm-a045.md)
-46. [스킬트리](https://github.com/kowoohyuk/algorithm/blob/master/2019-12-26-algorithm-a047.md)
+46. [스킬트리](https://github.com/kowoohyuk/algorithm/blob/master/2019-12-26-algorithm-a046.md)
 47. [가장 큰 수](https://github.com/kowoohyuk/algorithm/blob/master/2019-12-26-algorithm-a047.md)
 
 ## 2020년
@@ -76,4 +76,4 @@
 54. [짝지어 제거하기](https://github.com/kowoohyuk/algorithm/blob/master/2020-08-25-algorithm-a054.md)
 55. [예상 대진표](https://github.com/kowoohyuk/algorithm/blob/master/2020-08-26-algorithm-a055.md)
 56. [크레인 인형뽑기 게임](https://github.com/kowoohyuk/algorithm/blob/master/2020-08-27-algorithm-a056.md)
-57. [소수 만들기](https://github.com/kowoohyuk/algorithm/blob/master/2020-08-28-algorithm-a057.md)
+57. [소수 만들기](https://github.com/kowoohyuk/algorithm/blob/master/2020-08-29-algorithm-a057.md)
