@@ -76,4 +76,6 @@
 54. [짝지어 제거하기](https://github.com/kowoohyuk/algorithm/blob/master/2020-08-25-algorithm-a054.md)
 55. [예상 대진표](https://github.com/kowoohyuk/algorithm/blob/master/2020-08-26-algorithm-a055.md)
 56. [크레인 인형뽑기 게임](https://github.com/kowoohyuk/algorithm/blob/master/2020-08-27-algorithm-a056.md)
-57. [소수 만들기](https://github.com/kowoohyuk/algorithm/blob/master/2020-08-29-algorithm-a057.md)
+57. [소수 만들기](https://github.com/kowoohyuk/algorithm/blob/master/2020-08-28-algorithm-a057.md)
+58. [문자열 번갈아 출력하기](https://github.com/kowoohyuk/algorithm/blob/master/2020-08-29-algorithm-a058.md)
+59. [폰켓몬](https://github.com/kowoohyuk/algorithm/blob/master/2020-08-30-algorithm-a059.md)
