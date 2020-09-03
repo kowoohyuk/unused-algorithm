@@ -84,3 +84,4 @@
 ### 9월
 
 61. [영어 끝말잇기](https://github.com/kowoohyuk/algorithm/blob/master/2020-09-02-algorithm-a061.md)
+62. [점프와 순간 이동](https://github.com/kowoohyuk/algorithm/blob/master/2020-09-03-algorithm-a062.md)
