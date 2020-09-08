@@ -89,3 +89,4 @@
 64. [덩치](https://github.com/kowoohyuk/algorithm/blob/master/2020-09-06-algorithm-a064.md)
 65. [2xn 타일링](https://github.com/kowoohyuk/algorithm/blob/master/2020-09-07-algorithm-a065.md)
 66. [2xn 타일링2](https://github.com/kowoohyuk/algorithm/blob/master/2020-09-07-algorithm-a066.md)
+67. [과제](https://github.com/kowoohyuk/algorithm/blob/master/2020-09-08-algorithm-a067.md)
