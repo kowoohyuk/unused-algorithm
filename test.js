@@ -1,0 +1,40 @@
+const readline = require("readline");
+
+const rl = readline.createInterface({
+  input: process.stdin,
+  output: process.stdout,
+});
+
+let length = 0;
+let array = [];
+rl.on("line", function (line) {
+  if (length === 0) {
+    length = +line;
+  } else {
+    array.push(line.split(" ").map((v) => +v));
+    if (length === array.length) {
+      rl.close();
+    }
+  }
+}).on("close", function () {
+  array.sort((a, b) => b[1] - a[1]);
+
+  let spend = 0;
+  let score = 0;
+  const stack = [];
+  for (let i = 0; i < array.length; i++) {
+    let idx = array[i][0];
+    if (stack[idx]) {
+      while (idx > 1) {
+        if (!stack[--idx]) {
+          stack[idx] = array[i][1];
+          break;
+        }
+      }
+    } else {
+      stack[idx] = array[i][1];
+    }
+  }
+  console.log(stack.reduce((acc, v) => (acc += v ? v : 0), 0));
+  process.exit();
+});
