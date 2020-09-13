@@ -91,3 +91,4 @@
 66. [2xn 타일링2](https://github.com/kowoohyuk/algorithm/blob/master/2020-09-07-algorithm-a066.md)
 67. [과제](https://github.com/kowoohyuk/algorithm/blob/master/2020-09-08-algorithm-a067.md)
 68. [큰 수 만들기](https://github.com/kowoohyuk/algorithm/blob/master/2020-09-10-algorithm-a068.md)
+69. [뉴스 클러스터링](https://github.com/kowoohyuk/algorithm/blob/master/2020-09-13-algorithm-a069.md)
