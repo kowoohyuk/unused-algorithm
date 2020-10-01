@@ -94,3 +94,7 @@
 69. [뉴스 클러스터링](https://github.com/kowoohyuk/algorithm/blob/master/2020-09-13-algorithm-a069.md)
 70. [손익분기점](https://github.com/kowoohyuk/algorithm/blob/master/2020-09-15-algorithm-a070.md)
 71. [오픈채팅방](https://github.com/kowoohyuk/algorithm/blob/master/2020-09-17-algorithm-a071.md)
+
+### 10월
+
+72. [longest palindromic substring](https://github.com/kowoohyuk/algorithm/blob/master/2020-10-01-algorithm-a072.md)
