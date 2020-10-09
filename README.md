@@ -100,3 +100,4 @@
 72. [longest palindromic substring](https://github.com/kowoohyuk/algorithm/blob/master/2020-10-01-algorithm-a072.md)
 73. [trapping rain water](https://github.com/kowoohyuk/algorithm/blob/master/2020-10-02-algorithm-a073.md)
 74. [daily temperatures](https://github.com/kowoohyuk/algorithm/blob/master/2020-10-03-algorithm-a074.md)
+75. [top k frequent elements](https://github.com/kowoohyuk/algorithm/blob/master/2020-10-09-algorithm-a075.md)
