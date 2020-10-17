@@ -102,3 +102,4 @@
 74. [daily temperatures](https://github.com/kowoohyuk/algorithm/blob/master/2020-10-03-algorithm-a074.md)
 75. [top k frequent elements](https://github.com/kowoohyuk/algorithm/blob/master/2020-10-09-algorithm-a075.md)
 76. [Number of Islands](https://github.com/kowoohyuk/algorithm/blob/master/2020-10-10-algorithm-a076.md)
+77. [부녀회장이 될테야]](https://github.com/kowoohyuk/algorithm/blob/master/2020-10-17-algorithm-a077.md)
