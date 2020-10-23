@@ -105,3 +105,4 @@
 77. [부녀회장이 될테야](https://github.com/kowoohyuk/algorithm/blob/master/2020-10-17-algorithm-a077.md)
 78. [ACM 호텔](https://github.com/kowoohyuk/algorithm/blob/master/2020-10-21-algorithm-a078.md)
 79. [유레카 이론](https://github.com/kowoohyuk/algorithm/blob/master/2020-10-22-algorithm-a079.md)
+80. [크로아티아 알파벳](https://github.com/kowoohyuk/algorithm/blob/master/2020-10-23-algorithm-a080.md)
