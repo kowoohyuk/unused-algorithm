@@ -106,3 +106,4 @@
 78. [ACM 호텔](https://github.com/kowoohyuk/algorithm/blob/master/2020-10-21-algorithm-a078.md)
 79. [유레카 이론](https://github.com/kowoohyuk/algorithm/blob/master/2020-10-22-algorithm-a079.md)
 80. [크로아티아 알파벳](https://github.com/kowoohyuk/algorithm/blob/master/2020-10-23-algorithm-a080.md)
+81. [Find All Duplicates in an Array](https://github.com/kowoohyuk/algorithm/blob/master/2020-10-24-algorithm-a081.md)
