@@ -109,3 +109,4 @@
 81. [Find All Duplicates in an Array](https://github.com/kowoohyuk/algorithm/blob/master/2020-10-24-algorithm-a081.md)
 82. [정수 삼각형](https://github.com/kowoohyuk/algorithm/blob/master/2020-10-27-algorithm-a082.md)
 83. [계단 오르기](https://github.com/kowoohyuk/algorithm/blob/master/2020-10-28-algorithm-a083.md)
+84. [쉬운 계단 수](https://github.com/kowoohyuk/algorithm/blob/master/2020-10-29-algorithm-a084.md)
