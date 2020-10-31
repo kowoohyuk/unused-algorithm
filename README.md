@@ -112,4 +112,4 @@
 84. [쉬운 계단 수](https://github.com/kowoohyuk/algorithm/blob/master/2020-10-29-algorithm-a084.md)
 85. [2×n 타일링 2](https://github.com/kowoohyuk/algorithm/blob/master/2020-10-30-algorithm-a085.md)
 86. [셀프 넘버](https://github.com/kowoohyuk/algorithm/blob/master/2020-10-31-algorithm-a086.md)
-
+87. [과제](https://github.com/kowoohyuk/algorithm/blob/master/2020-10-31-algorithm-a087.md)
