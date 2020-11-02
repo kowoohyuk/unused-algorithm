@@ -115,3 +115,4 @@
 87. [과제](https://github.com/kowoohyuk/algorithm/blob/master/2020-10-31-algorithm-a087.md)
 88. [파도반 수열](https://github.com/kowoohyuk/algorithm/blob/master/2020-10-31-algorithm-a088.md)
 89. [이친수](https://github.com/kowoohyuk/algorithm/blob/master/2020-11-01-algorithm-a089.md)
+90. [블랙잭](https://github.com/kowoohyuk/algorithm/blob/master/2020-11-02-algorithm-a090.md)
