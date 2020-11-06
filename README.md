@@ -116,3 +116,4 @@
 88. [파도반 수열](https://github.com/kowoohyuk/algorithm/blob/master/2020-10-31-algorithm-a088.md)
 89. [이친수](https://github.com/kowoohyuk/algorithm/blob/master/2020-11-01-algorithm-a089.md)
 90. [블랙잭](https://github.com/kowoohyuk/algorithm/blob/master/2020-11-02-algorithm-a090.md)
+91. [N개의 최소 공배수](https://github.com/kowoohyuk/algorithm/blob/master/2020-11-06-algorithm-a091.md)
