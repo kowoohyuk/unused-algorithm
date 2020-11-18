@@ -120,3 +120,4 @@
 92. [행렬의 곱셈](https://github.com/kowoohyuk/algorithm/blob/master/2020-11-07-algorithm-a092.md)
 93. [별 찍기 - 10](https://github.com/kowoohyuk/algorithm/blob/master/2020-11-12-algorithm-a093.md)
 94. [하노이 탑 이동 순서](https://github.com/kowoohyuk/algorithm/blob/master/2020-11-13-algorithm-a094.md)
+95. [수식 최대화](https://github.com/kowoohyuk/algorithm/blob/master/2020-11-18-algorithm-a095.md)
