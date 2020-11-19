@@ -121,3 +121,4 @@
 93. [별 찍기 - 10](https://github.com/kowoohyuk/algorithm/blob/master/2020-11-12-algorithm-a093.md)
 94. [하노이 탑 이동 순서](https://github.com/kowoohyuk/algorithm/blob/master/2020-11-13-algorithm-a094.md)
 95. [수식 최대화](https://github.com/kowoohyuk/algorithm/blob/master/2020-11-18-algorithm-a095.md)
+96. [JadenCase 문자열 만들기](https://github.com/kowoohyuk/algorithm/blob/master/2020-11-19-algorithm-a096.md)
