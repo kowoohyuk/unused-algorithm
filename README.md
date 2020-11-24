@@ -123,3 +123,4 @@
 95. [수식 최대화](https://github.com/kowoohyuk/algorithm/blob/master/2020-11-18-algorithm-a095.md)
 96. [JadenCase 문자열 만들기](https://github.com/kowoohyuk/algorithm/blob/master/2020-11-19-algorithm-a096.md)
 97. [숫자의 표현](https://github.com/kowoohyuk/algorithm/blob/master/2020-11-21-algorithm-a097.md)
+98. [조이스틱](https://github.com/kowoohyuk/algorithm/blob/master/2020-11-24-algorithm-a098.md)
